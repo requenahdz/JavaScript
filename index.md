@@ -40,6 +40,7 @@ function myFunction() {
 
 ### Practica 3
 Crea una tabla que contenga los dias del mes actual.
+![alt text][logo]
 [logo]: https://requenahdz.github.io/javascript/mes.png "Mes"
 
 ##### Código de ayuda
