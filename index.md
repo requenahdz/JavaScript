@@ -1,9 +1,9 @@
 ## Practicas de JavaScript
 
 var arreglo=[12,32,41,43,81,26,73,78,27,77,85,56,16,96,21,63,69,80,90,23];
-1.- imprime todos los números
-2.- imprime todos los  números   que sean pares
-3.- imprime todos los  números   que sean impares
+*imprime todos los números
+*imprime todos los  números   que sean pares
+*imprime todos los  números   que sean impares
 4.- imprime todos los  números   que sean mayor a 50
 5.- imprime todos los  números   que sean menor a 50
 6.- imprime todos los  números   que contengan un 5 o 7
