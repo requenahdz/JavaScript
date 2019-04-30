@@ -1,8 +1,16 @@
-## Welcome to GitHub Pages
+## Practicas de JavaScript
 
-You can use the [editor on GitHub](https://github.com/requenahdz/JavaScript/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+var arreglo=[12,32,41,43,81,26,73,78,27,77,85,56,16,96,21,63,69,80,90,23];
+1.- imprime todos los números
+2.- imprime todos los  números   que sean pares
+3.- imprime todos los  números   que sean impares
+4.- imprime todos los  números   que sean mayor a 50
+5.- imprime todos los  números   que sean menor a 50
+6.- imprime todos los  números   que contengan un 5 o 7
+7- imprime todos los  números   primos
+8- imprime todos los  números   mayores a 30 y menores a 80
+9.- imprime el arreglo ordenado de mayor a menor
+10.- imprime el arreglo ordenado de menor a mayor
 
 ### Markdown
 
