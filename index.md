@@ -44,13 +44,6 @@ Crea una calendario en una tabla que solo muestre el mes actual.
 
 [logo]: https://requenahdz.github.io/javascript/mes.png "Mes"
 
-##### Código de ayuda
-```
-function myFunction() {
-  var miVariable='valor';
-  return miVariable;
-}
-```
 
 
 ### Dillan MLP
