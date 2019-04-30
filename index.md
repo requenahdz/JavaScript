@@ -1,16 +1,16 @@
 ## Practicas de JavaScript
 
 var arreglo=[12,32,41,43,81,26,73,78,27,77,85,56,16,96,21,63,69,80,90,23];
-*imprime todos los números
-*imprime todos los  números   que sean pares
-*imprime todos los  números   que sean impares
-4.- imprime todos los  números   que sean mayor a 50
-5.- imprime todos los  números   que sean menor a 50
-6.- imprime todos los  números   que contengan un 5 o 7
-7- imprime todos los  números   primos
-8- imprime todos los  números   mayores a 30 y menores a 80
-9.- imprime el arreglo ordenado de mayor a menor
-10.- imprime el arreglo ordenado de menor a mayor
+* Imprime en consola todos los números.
+* Imprime en consola todos los números que sean pares.
+* Imprime en consola todos los números que sean impares.
+* Imprime en consola todos los números sean mayor a 50.
+* Imprime en consola todos los números menor a 50.
+* Imprime en consola todos los números contengan un 5 o 7.
+* Imprime en consola todos los números que son primos.
+* Imprime en consola todos los números mayores a 30 y menores a 80.
+* Imprime en consola todos los númeroso ordenado de mayor a menor.
+* Imprime en consola todos los números menor a mayor.
 
 ### Markdown
 
