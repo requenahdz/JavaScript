@@ -39,8 +39,7 @@ function myFunction() {
 ```
 
 ### Practica 3
-Crea una tabla que contenga los dias del mes actual.
-Reference-style: 
+Crea una calendario en una tabla que solo muestre el mes actual. 
 ![alt text][logo]
 
 [logo]: https://requenahdz.github.io/javascript/mes.png "Mes"
