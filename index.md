@@ -1,7 +1,7 @@
 ## Practicas de JavaScript
 
 ### Practica 1
-Dado el siguiente arrego de números realiza las siguientes practicas.
+Dado el siguiente arreglo de números realiza las siguientes practicas.
 ```
 var arreglo=[12,32,41,43,81,26,73,78,27,77,85,56,16,96,21,63,69,80,90,23];
 ```
