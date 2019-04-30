@@ -33,7 +33,7 @@ Crea la siguientes funciones.
 ##### Código de ayuda
 ```
 function myFunction() {
-  var miVariable='valor;
+  var miVariable='valor';
   return miVariable;
 }
 ```
