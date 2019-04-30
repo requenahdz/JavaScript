@@ -27,7 +27,7 @@ Crea la siguientes funciones.
 * Crea una función que retorne la hora actual.
 * Crea una función retorne la fecha del dia de hoy con el formato 18/Abril/2019.
 * Crea una función retorne un número random del 1 al 100.
-* Crea una función retorne un arreglo con 10 números random del 1 al 100 pero que no contenga el número 3,5 y 7.
+* Crea una función retorne un arreglo con 10 números random del 1 al 100 pero que no contenga el número 3, 5 y 7.
 * Crea una función retorne el dia sera mañana. ejemplo "viernes".
 
 ##### Código de ayuda
