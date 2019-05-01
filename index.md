@@ -50,7 +50,7 @@ document.getElementById("resultado").innerHTML = "24";
 ```
 
 ### Practica 4
-Crea una calendario en una tabla que solo muestre el mes actual. 
+Crea una calendario en html que muestre el mes actual. 
 ![alt text][logo]
 
 [logo]: https://requenahdz.github.io/javascript/mes.png "Mes"
