@@ -40,7 +40,9 @@ function myFunction() {
 
 
 ### Practica 3
-Crea un formulario que sume, reste, multiplique y divida dos numeros dados,el resultado debe ser mostrado en una etiqueta div
+Crea un formulario que sume, reste, multiplique y divida dos numeros dados, el resultado debe ser mostrado en una etiqueta div
+
+##### Código de ayuda
 ```
 //Obtiene el valor de un input.
 var num1=document.getElementById("num1").value;
