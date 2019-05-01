@@ -51,6 +51,7 @@ var num1=document.getElementById("num1").value;
 //Modifica contenido de un elemento.
 document.getElementById("resultado").innerHTML = "24";
 
+//Muestra una alerta cuando el usuario hace clic en un elemento
 document.getElementById("miBoton").addEventListener("click", function() {
   alert("Dillan MLP");
 });
