@@ -50,6 +50,10 @@ var num1=document.getElementById("num1").value;
 
 //Modifica contenido de un elemento.
 document.getElementById("resultado").innerHTML = "24";
+
+document.getElementById("miBoton").addEventListener("click", function() {
+  alert("Dillan MLP");
+});
 ```
 
 ### Practica 4
