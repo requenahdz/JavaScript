@@ -29,7 +29,7 @@ Crea la siguientes funciones.
 * Crea una función retorne un número random del 1 al 100.
 * Crea una función retorne un arreglo con 10 números random del 1 al 100 pero que no contenga el número 3, 5 y 7.
 * Crea una función retorne el dia sera mañana. ejemplo "viernes".
-
+* Crea una función retorne el dia que fué el primero dia del mes actual. ejemplo "Domingo".
 ##### Código de ayuda
 ```
 function myFunction() {
