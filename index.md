@@ -42,10 +42,10 @@ function myFunction() {
 ### Practica 3
 Crea un formulario que sume, reste, multiplique y divida dos numeros dados,el resultado debe ser mostrado en una etiqueta div
 ```
-//Obtener valores de un input.
+//Obtiene el valo de un input.
 var num1=document.getElementById("num1").value;
 
-//enviar valores a un elemento.
+//Modifica contenido de un elemento.
 document.getElementById("resultado").innerHTML = "24";
 ```
 
