@@ -38,7 +38,18 @@ function myFunction() {
 }
 ```
 
+
 ### Practica 3
+Crea un formulario que sume, reste, multiplique y divida dos numeros dados, y que el resultado te muestre en una etiqueta div
+```
+//Obtener valores de un input.
+var num1=document.getElementById("num1").value;
+
+//enviar valores a un elemento.
+document.getElementById("resultado").innerHTML = "24";
+```
+
+### Practica 4
 Crea una calendario en una tabla que solo muestre el mes actual. 
 ![alt text][logo]
 
