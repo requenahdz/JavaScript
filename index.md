@@ -69,7 +69,7 @@ Crear una formulario que ayuda a cifrar y descifrar oraciones con el metodo de c
 
 El cifrado César es uno de los primeros métodos de cifrado conocidos históricamente. Julio César lo usó para enviar órdenes a sus generales en los campos de batalla. Consistía en escribir el mensaje con un alfabeto que estaba formado por las letras del alfabeto latino normal desplazadas tres posiciones a la derecha. Con nuestro alfabeto el sistema quedaría así:
 
-Alfabeto en claro:	A B C D E F G H I J K L M N Ñ O P Q R S T U V W X Y Z
+Alfabeto en claro:	A B C D E F G H I J K L M N Ñ O P Q R S T U V W X Y Z <br>
 Alfabeto cifrado:	  D E F G H I J K L M N Ñ O P Q R S T U V W X Y Z A B C
 
 Por ejemplo, si se quiere enviar el mensaje ATACARALAMANECER, lo que se escribirá realmente es DWDFDUDÑDODPHFHU
