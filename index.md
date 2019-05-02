@@ -64,10 +64,11 @@ Crea una calendario en html que muestre el mes actual.
 
 [logo]: https://requenahdz.github.io/javascript/mes.png "Mes"
 
-### Practica 5 Crea una formulario que ayuda a cifrar y 
-Crear una formulario que ayuda a cifrar y descifrar oraciones con el metodo de cifrado César. 
+### Practica 5
+Crear una formulario que ayuda a cifrar y descifrar oraciones con el método de cifrado César. 
 
-El cifrado César es uno de los primeros métodos de cifrado conocidos históricamente. Julio César lo usó para enviar órdenes a sus generales en los campos de batalla. Consistía en escribir el mensaje con un alfabeto que estaba formado por las letras del alfabeto latino normal desplazadas tres posiciones a la derecha. Con nuestro alfabeto el sistema quedaría así:
+El cifrado César es uno de los primeros métodos de cifrado conocidos históricamente. Julio César lo usó para enviar órdenes a sus generales en los campos de batalla. Consistía en escribir el mensaje con un alfabeto que estaba formado por las letras del alfabeto latino normal desplazadas tres posiciones a la derecha. <br>
+Con nuestro alfabeto el sistema quedaría así:
 
 Alfabeto en claro:	A B C D E F G H I J K L M N Ñ O P Q R S T U V W X Y Z <br>
 Alfabeto cifrado:	  D E F G H I J K L M N Ñ O P Q R S T U V W X Y Z A B C
