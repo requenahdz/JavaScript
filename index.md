@@ -31,6 +31,7 @@ Crea la siguientes funciones.
 * Crea una función retorne el dia sera mañana. ejemplo "Jueves".
 * Crea una función retorne el dia que fué el primer dia del mes actual. ejemplo "Miercoles".
 * Crea una función retorne el dia que sera el último dia del mes actual. ejemplo "Viernes".
+* Crea una función retorne el dia que sera el último dia del mes actual. ejemplo "Viernes".
 ##### Código de ayuda
 ```
 function myFunction() {
@@ -62,6 +63,16 @@ Crea una calendario en html que muestre el mes actual.
 ![alt text][logo]
 
 [logo]: https://requenahdz.github.io/javascript/mes.png "Mes"
+
+### Practica 5
+Crea una formulario que ayuda a cifrar y descifrar horaciones con el metodo de cifrado César.
+
+El cifrado César es uno de los primeros métodos de cifrado conocidos históricamente. Julio César lo usó para enviar órdenes a sus generales en los campos de batalla. Consistía en escribir el mensaje con un alfabeto que estaba formado por las letras del alfabeto latino normal desplazadas tres posiciones a la derecha. Con nuestro alfabeto el sistema quedaría así:
+
+Alfabeto en claro:	A B C D E F G H I J K L M N Ñ O P Q R S T U V W X Y Z
+Alfabeto cifrado:	  D E F G H I J K L M N Ñ O P Q R S T U V W X Y Z A B C
+
+Por ejemplo, si se quiere enviar el mensaje ATACARALAMANECER, lo que se escribirá realmente es DWDFDUDÑDODPHFHU
 
 
 
