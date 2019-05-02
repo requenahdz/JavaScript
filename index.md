@@ -48,20 +48,20 @@ Crea un formulario que sume, reste, multiplique y divida dos numeros dados, el r
 ```
 //ETIQUETAS HTML
 
-<input type="text" id="numero1" placeholder="Escribe el primer numero.">
-<button type="button" id="miBoton" >Aceptar</button>
+<input type="text" id="texto" placeholder="Escribe un texto.">
+<button type="button" id="btn" >Aceptar</button>
 <div id="resultado"></div>
 
 //CODIGO JAVASCRIPT
 
 //Muestra una alerta cuando el usuario hace clic en un elemento.
-document.getElementById("miBoton").addEventListener("click", function() {
+document.getElementById("btn").addEventListener("click", function() {
 
   //Obtiene el valor de un input.
-  var num1=document.getElementById("numero1").value;
+  var texto=document.getElementById("texto").value;
   
   //Modifica contenido de un elemento.
-  document.getElementById("resultado").innerHTML = num1";
+  document.getElementById("resultado").innerHTML = texto;
 
 });
 ```
