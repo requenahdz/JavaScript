@@ -46,15 +46,24 @@ Crea un formulario que sume, reste, multiplique y divida dos numeros dados, el r
 
 ##### Código de ayuda
 ```
-//Obtiene el valor de un input.
-var num1=document.getElementById("num1").value;
+//ETIQUETAS HTML
+<input type="text" id="numero1" placeholder="Escribe el primer numero.">
+<button type="button" id="miBoton" >Aceptar</button>
+<div id="resultado"></div>
 
-//Modifica contenido de un elemento.
-document.getElementById("resultado").innerHTML = "24";
+//CODIGO JAVASCRIPT
+
+
 
 //Muestra una alerta cuando el usuario hace clic en un elemento.
 document.getElementById("miBoton").addEventListener("click", function() {
-  alert("Dillan MLP");
+
+  //Obtiene el valor de un input.
+  var num1=document.getElementById("numero1").value;
+  
+  //Modifica contenido de un elemento.
+  document.getElementById("resultado").innerHTML = num1";
+
 });
 ```
 
