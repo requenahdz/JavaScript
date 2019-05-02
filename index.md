@@ -47,13 +47,12 @@ Crea un formulario que sume, reste, multiplique y divida dos numeros dados, el r
 ##### Código de ayuda
 ```
 //ETIQUETAS HTML
+
 <input type="text" id="numero1" placeholder="Escribe el primer numero.">
 <button type="button" id="miBoton" >Aceptar</button>
 <div id="resultado"></div>
 
 //CODIGO JAVASCRIPT
-
-
 
 //Muestra una alerta cuando el usuario hace clic en un elemento.
 document.getElementById("miBoton").addEventListener("click", function() {
