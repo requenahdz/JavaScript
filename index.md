@@ -73,7 +73,7 @@ Con nuestro alfabeto el sistema quedaría así:
 Alfabeto en claro:	A B C D E F G H I J K L M N Ñ O P Q R S T U V W X Y Z <br>
 Alfabeto cifrado:	  D E F G H I J K L M N Ñ O P Q R S T U V W X Y Z A B C
 
-Por ejemplo, si se quiere enviar el mensaje ATACARALAMANECER, lo que se escribirá realmente es DWDFDUDÑDODPHFHU
+Por ejemplo, si se quiere enviar el mensaje DILLANMLP, lo que se escribirá realmente es GLÑÑDPOÑS
 
 
 
