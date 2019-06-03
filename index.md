@@ -67,7 +67,7 @@ document.getElementById("btn").addEventListener("click", function() {
 ```
 
 ### Practica 4
-Crea una calendario en html que muestre el mes actual. 
+Crea una calendario en html utlizando solo javascript que muestre el mes actual. 
 ![alt text][logo]
 
 [logo]: https://requenahdz.github.io/javascript/mes.png "Mes"
