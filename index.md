@@ -85,7 +85,7 @@ Alfabeto cifrado:	  D E F G H I J K L M N Ñ O P Q R S T U V W X Y Z A B C
 Por ejemplo, si se quiere enviar el mensaje DILLANMLP, lo que se escribirá realmente es GLÑÑDPOÑS
 
 ### Practica 6
-Realiza una galería de imagenes con las siguientes acciones <br>
+Realiza una galería de imágenes con las siguientes acciones <br>
 * Posibilidad de añadir más imágenes.<br>
 * Posibilidad de remplazar imágenes.<br>
 * Posibilidad de eliminar imágenes. <br>
