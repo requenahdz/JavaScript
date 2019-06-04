@@ -30,6 +30,7 @@ Crea la siguientes funciones.
 * Crea una función retorne un arreglo con 10 números random del 1 al 100 pero que no contenga el número 3, 5 y 7.
 * Crea una función retorne el dia sera mañana. ejemplo "Jueves".
 * Crea una función retorne el dia que fué el primer dia del mes actual. ejemplo "Miercoles".
+* Crea una función retorne el número de dias que contiene el mes actual. Ejemplo "31";
 * Crea una función retorne el dia que sera el último dia del mes actual. ejemplo "Viernes".
 * Crea una función retorne el dia que sera el último dia del mes actual. ejemplo "Viernes".
 ##### Código de ayuda
@@ -83,6 +84,11 @@ Alfabeto cifrado:	  D E F G H I J K L M N Ñ O P Q R S T U V W X Y Z A B C
 
 Por ejemplo, si se quiere enviar el mensaje DILLANMLP, lo que se escribirá realmente es GLÑÑDPOÑS
 
+### Practica 6
+Realiza una galería de imagenes con las siguientes acciones <br>
+* Posibilidad de añadir más imágenes.<br>
+* Posibilidad de remplazar imágenes.<br>
+* Posibilidad de eliminar imágenes. <br>
 
 
 ### Dillan MLP
